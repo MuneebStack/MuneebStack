@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" version="1.1">
+    <animateTransform attributeType="XML" attributeName="transform" type="translate" values="0 0; 0 -1; 0 0" keyTimes="0; 0.5; 1" dur="1.5s" 
+    begin="1s" repeatCount="indefinite" accumulate="sum" />
+    <animateTransform attributeType="XML" attributeName="transform" type="rotate" values="0 10 10; 2 10 10; 0 10 10; -2 10 10; 0 10 10" dur="1.5s"
+    begin="1s" repeatCount="indefinite" additive="sum" />
+    <path d="M 47 79.500 L 67.482 100 47 120.500 L 26.518 141 47.518 141 L 68.518 141 89 120.500 L 109.482 100 89 79.500 L 68.518 59 47.518 59 L 26.518 59 47 79.500 M 111 79.500 L 131.482 100 111 120.500 L 90.518 141 111.518 141 L 132.518 141 153 120.500 L 173.482 100 153 79.500 L 132.518 59 111.518 59 L 90.518 59 111 79.500" stroke="none" fill="#fafafc" fill-rule="evenodd"/><path d="M -0 100.005 L -0 200.010 100.250 199.755 L 200.500 199.500 200.755 99.750 L 201.010 0 100.505 0 L 0 0 -0 100.005 M 0.481 100.500 C 0.481 155.500, 0.602 178.147, 0.750 150.826 C 0.898 123.506, 0.898 78.506, 0.750 50.826 C 0.602 23.147, 0.481 45.500, 0.481 100.500 M 47 79.500 L 67.482 100 47 120.500 L 26.518 141 47.518 141 L 68.518 141 89 120.500 L 109.482 100 89 79.500 L 68.518 59 47.518 59 L 26.518 59 47 79.500 M 111 79.500 L 131.482 100 111 120.500 L 90.518 141 111.518 141 L 132.518 141 153 120.500 L 173.482 100 153 79.500 L 132.518 59 111.518 59 L 90.518 59 111 79.500" stroke="none" fill="#8263ec" fill-rule="evenodd"/>
+</svg>
